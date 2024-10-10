@@ -117,14 +117,6 @@ Each risk contains the following fields:
 
 ```bash
 git clone https://github.com/ethirajmudhaliar/GH-risk-api.git
-cd GH-risk-api
-```
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/ethirajmudhaliar/GH-risk-api.git
-cd GH-risk-api
 ```
 
 2. Install dependencies:
