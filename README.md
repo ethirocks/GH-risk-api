@@ -1,7 +1,5 @@
 # GH-risk-api
 
-# GH-risk-api
-
 ## Risk Management API
 
 The **Risk Management API** is a web-based service designed to manage risks. It provides an HTTP-based interface to create, update, and retrieve risks, with data persisted in memory for the purposes of this assignment.
