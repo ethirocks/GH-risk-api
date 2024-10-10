@@ -22,6 +22,9 @@ Improvements Beyond Requirements:
 Testing:
 - Unit Tests: Created for core API handlers to ensure all individual functionalities operate correctly.
 
+Testing Application:
+- you can pull the repo, then run "go run main.go" then hit the curl commands from another terminal to test the application
+
 Extra Enhancements:
 - Detailed Logging for all events and errors.
 - README Documentation: Clear instructions, usage examples, architecture details, and API references.
