@@ -1,7 +1,5 @@
 # GH-risk-api
-# Saving the README content to a .txt file
 
-readme_content = """
 # GH-risk-api
 
 ## Risk Management API
